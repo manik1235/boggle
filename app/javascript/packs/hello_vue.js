@@ -66,7 +66,7 @@ document.addEventListener('turbolinks:load', () => {
     el: '#hello',
     data: () => {
       return {
-        message: "Can you say hello?"
+        message: "Can't you say hello?"
       }
     },
     components: { App }
